@@ -36,6 +36,6 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥Channel : (https://t.me/moviesclubofficial12)
+➥Channel : [Click me] (https://t.me/moviesclubofficial12)
 
 """
